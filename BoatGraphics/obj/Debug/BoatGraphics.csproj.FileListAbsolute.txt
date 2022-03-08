@@ -1,0 +1,10 @@
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.pdb
