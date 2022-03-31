@@ -1,0 +1,54 @@
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics\obj\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v2\obj\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.FormHarbor.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\obj\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v3\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.FormHarbor.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v4\obj\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\bin\Debug\BoatGraphics.exe.config
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\bin\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\bin\Debug\BoatGraphics.pdb
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.csprojAssemblyReference.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.Form1.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.FormBoatConfing.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.FormHarbor.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.Properties.Resources.resources
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.csproj.GenerateResource.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.csproj.CoreCompileInputs.cache
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.exe
+D:\Decy\Work\C#\ООП\Перемещение лодки 06.03.21\BoatGraphics v5\obj\Debug\BoatGraphics.pdb
